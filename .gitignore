@@ -1,0 +1,11 @@
+*.class
+*.pdf
+*.zip
+*.txt
+.classpath
+.project
+*.prefs
+.settings
+*.swp
+.~lock*
+*.old
